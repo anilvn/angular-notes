@@ -12,7 +12,6 @@
 - TypeScript Essentials for Angular
 
 ### 2. Core Building Blocks
-- Components and Component Lifecycle
 - Templates and Data Binding
   - Property Binding
   - Event Binding
